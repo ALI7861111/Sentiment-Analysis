@@ -12,7 +12,7 @@ https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset
 
 Note: The dataset exhibited class imbalance, with a larger number of negative tweets compared to positive ones.
 
-## Data Augmentation
+# Data Augmentation
 
 To address the class imbalance, the following data augmentation techniques were applied:
 
@@ -54,17 +54,19 @@ The results of the Logistic Regression model :
 
 ## Getting Started
 
-Clone this repository.
+1.Clone this repository.
 
-Download the dataset from the provided Kaggle link.
+2.Download the dataset from the provided Kaggle link.
 
-Install the necessary libraries, especially nlpaug.
+3.Install the necessary libraries, especially nlpaug.
 
-Run the preprocessing and feature engineering scripts.
+4.Run the preprocessing and feature engineering scripts in jupyter notebook.
 
-Train and evaluate the model using the provided scripts.
+5.Train and evaluate the model using the provided scripts.
 
-Contributors
+## Contributors
+
+
 Ali Arslan
 
 ## License
